@@ -1,0 +1,12 @@
+{
+    "name": "shipafreight/test-idp-php",
+    "version": "0.1.0",
+    "require": {
+        "web-token/jwt-core": "^2.2",
+        "web-token/jwt-encryption": "^2.2",
+        "web-token/jwt-encryption-algorithm-rsa": "^2.2",
+        "web-token/jwt-encryption-algorithm-aescbc": "^2.2",
+        "web-token/jwt-signature": "^2.2",
+        "web-token/jwt-signature-algorithm-rsa": "^2.2"
+    }
+}
