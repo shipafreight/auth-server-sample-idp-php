@@ -16,3 +16,7 @@ php composer.phar install
 ```bash
 php main.php
 ```
+
+## Notes
+
+- this repo uses the JWT framework for generating tokens which can be found at https://web-token.spomky-labs.com
